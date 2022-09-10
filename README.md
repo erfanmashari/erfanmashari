@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erfanmashari
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning adnavced things in frontend
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me is by my email erfanmashari2@gmail.com
 
